@@ -1,4 +1,4 @@
-const multer = require("multergi ");
+const multer = require("multer");
 const path = require("path");
 const BaseError = require("../Utils/base.error");
 
